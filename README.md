@@ -1,8 +1,6 @@
 ![Masterhead](https://res.cloudinary.com/dborxc531/image/upload/v1675007110/Banners/github_banner_wide_vi34zo.gif)
-<h1 align="center">Hi 👋, I'm Jesson</h1>
+<h1 align="center">Hi! 😊, I'm Jesson</h1>
 <h3 align="center">A passionate frontend developer based in Dublin, Ireland</h3>
-
-### Hi there 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jtm2021&label=Profile%20views&color=0e75b6&style=flat" alt="jtm2021" /> </p>
 
