@@ -1,3 +1,7 @@
+![Masterhead](https://res.cloudinary.com/dborxc531/image/upload/v1675007110/Banners/github_banner_wide_vi34zo.gif)
+<h1 align="center">Hi 👋, I'm Jesson</h1>
+<h3 align="center">A passionate frontend developer based in Dublin, Ireland</h3>
+
 ### Hi there 👋
 
 <!--
