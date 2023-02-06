@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-  <img src="https://res.cloudinary.com/dborxc531/image/upload/v1675715516/GitHub%20images/CLOUDINARY_iatf0j.png" height="28"/>
+  <img src="https://res.cloudinary.com/dborxc531/image/upload/v1675719298/GitHub%20images/CLOUDINARY_afmjji.png" height="28"/>
 <p>
   
   
