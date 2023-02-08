@@ -35,7 +35,7 @@
 <h3 align="left">Hosting</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-  <img src="https://res.cloudinary.com/dborxc531/image/upload/v1675716435/GitHub%20images/render_capital_olmzux.png" height="28"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 <p>
   
 <h3 align="left">Designs and Wireframes</h3>
