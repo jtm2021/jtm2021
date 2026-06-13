@@ -1,4 +1,3 @@
-![Masterhead](https://res.cloudinary.com/dborxc531/image/upload/v1675007110/Banners/github_banner_wide_vi34zo.gif)
 <h1 align="center">Hi! 😊 I'm Jesson</h1>
 <h3 align="center">I'm a passionate software developer based in Dublin, Ireland. I graduated at Code Institute with Full Stack Software Development and I’m currently learning Java. Feel free to connect with me via <a href="https://www.linkedin.com/in/jesson-mangilisan/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jesson-mangilisan/" height="25"/></a></h3>
 
