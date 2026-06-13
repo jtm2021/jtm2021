@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jtm2021&label=Profile%20views&color=0e75b6&style=flat" alt="jtm2021" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jtm2021" alt="jtm2021" /></a> </p>
-
 <h3 align="left">Programming Languages</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
