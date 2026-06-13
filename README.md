@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 😊 I'm Jesson</h1>
-<h3 align="center">I'm a passionate software developer based in Dublin, Ireland. I graduated at Code Institute with Full Stack Software Development and I’m currently learning Java. Feel free to connect with me via <a href="https://www.linkedin.com/in/jesson-mangilisan/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jesson-mangilisan/" height="25"/></a></h3>
+<h3 align="center">I'm a passionate software developer based in Dublin, Ireland. Feel free to connect with me via <a href="https://www.linkedin.com/in/jesson-mangilisan/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jesson-mangilisan/" height="25"/></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jtm2021&label=Profile%20views&color=0e75b6&style=flat" alt="jtm2021" /> </p>
 
